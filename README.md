@@ -10,4 +10,4 @@
 - Gulp
 - WebPack
 
-Hello every one !
+Hello **every** one !
